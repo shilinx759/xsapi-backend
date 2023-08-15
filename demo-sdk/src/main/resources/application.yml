@@ -1,0 +1,4 @@
+xsapi:
+  client:
+    access-key: slx
+    secret-key: abcdefgh
